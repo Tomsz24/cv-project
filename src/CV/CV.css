@@ -1,0 +1,10 @@
+.cv-main {
+    max-width: 850px;
+    margin: 0 auto;
+    width: 100%;
+    display: grid;
+    grid-template-areas: "header header" "personal details";
+    grid-template-columns: 250px 1fr;
+}
+
+
